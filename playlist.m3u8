@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PR4S4D" tvg-chno="001" group-title="TEST" tvg-logo="http://http://192.168.1.15/upload/logo/channel1.png", Channel 1 UHD
+http://192.168.1.15/hls/channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="2UN17" tvg-chno="002" group-title="TEST" tvg-logo="http://http://192.168.1.15/upload/logo/channel2.png", Channel 2 HD
+http://192.168.1.15/dash/channel2/playlist.mpd
